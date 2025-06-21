@@ -7,7 +7,6 @@ function App() {
   return (
     <>
     <Navbar/>
-    <div className="underline">Hello World</div>
     </>
   )
 }
