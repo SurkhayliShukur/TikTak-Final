@@ -1,11 +1,13 @@
 
+import React from 'react';
+import Navbar from './common/components/Navbar';
 
 function App() {
  
-
   return (
     <>
-    <div>Hello World</div>
+    <Navbar/>
+    <div className="underline">Hello World</div>
     </>
   )
 }
